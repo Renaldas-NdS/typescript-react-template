@@ -3,7 +3,7 @@
 A complete, production-ready React template with TypeScript, Vite, React Router, Zustand, and Vitest. 
 This template follows industry best practices and includes everything you need to start building modern web applications.
 
-## 🚀 Features
+## Features
 
 - **Vite** - Lightning-fast development server and optimized builds
 - **React 18** - Latest React with TypeScript support
@@ -275,7 +275,7 @@ npm run format      # Format all files with Prettier
 npm run type-check  # Check TypeScript types
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to Vercel
 ```bash
@@ -320,7 +320,7 @@ docker build -t my-app .
 docker run -p 80:80 my-app
 ```
 
-## 🔧 Customization
+## Customization
 
 ### Change the Port
 Edit `vite.config.ts`:
@@ -386,13 +386,6 @@ build: {
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- React Team for the amazing framework
-- Vite for the blazing-fast build tool
-- Zustand for simple state management
-- The open-source community
 
 ## Support
 
